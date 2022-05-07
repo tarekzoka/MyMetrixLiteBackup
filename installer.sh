@@ -7,7 +7,7 @@
 #!/bin/sh
 echo
 
-opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/enigma2-plugin-extensions-xcplugin-forever_1.8_all.ipk?raw=true
+opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/enigma2-plugin-extensions-worldcam_4.1_r3_all.ipk?raw=true
 echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
 wait
