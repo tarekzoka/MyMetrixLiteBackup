@@ -7,7 +7,7 @@
 echo
 opkg remove --force-depends etc-qaz 
 wait
-tar xzvpf /tmp/*.tar.gz  -C / https://github.com/tarekzoka/plugins/blob/main/jedimakerxtream.tar.gz?raw=true
+tar xzvpf /tmp/jedimakerxtream.tar.gz  -C / https://github.com/tarekzoka/plugins/blob/main/jedimakerxtream.tar.gz?raw=true
 wait
 opkg remove --force-depends etc-qaz 
 wait
