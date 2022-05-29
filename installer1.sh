@@ -5,7 +5,7 @@
 ###########################################
 #!/bin/sh
 echo
-opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/jedimakerxtream.tar.gz?raw=true
+opkg install --force-overwrite --tar xzvpf /tmp/*.tar.gz  -C / https://github.com/tarekzoka/plugins/blob/main/jedimakerxtream.tar.gz?raw=true
 wait
 opkg remove --force-depends etc-qaz 
 wait
