@@ -7,7 +7,6 @@
 #!/bin/sh
 echo
 opkg remove etc-enigma2-lamedb 
-rm -rf /etc-enigma2-lamedb /
 wait
 opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/plugin-enigma2-channel-tarek_1.1_all.ipk?raw=true
 wait
