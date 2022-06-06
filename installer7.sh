@@ -5,7 +5,7 @@
 ###########################################
 #!/bin/sh
 echo
-opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/SKIN-ORANGESKY-P-FHD-By-Muaath.ipk?raw=true
+opkg install --force-overwrite  https://github.com/tarekzoka/plugins/blob/main/enigma2-plugin-skin-orangesky_SKIN-ORANGESKY-P-FHD-By-Muaath_all.ipk?raw=true
 wait
 sleep 2;
 exit 0
