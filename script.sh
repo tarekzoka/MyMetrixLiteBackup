@@ -6,7 +6,7 @@
 #!/bin/sh
 #
 
-wget -O /usr/ TAREK-SCRIPT.tar.gz "https://github.com/tarekzoka/plugins/blob/main/TAREK-SCRIPT.tar.gz?raw=true"
+wget -O /usr/TAREK-SCRIPT.tar.gz "https://github.com/tarekzoka/plugins/blob/main/TAREK-SCRIPT.tar.gz?raw=true"
 wait
 exit 0
 #########################################################
