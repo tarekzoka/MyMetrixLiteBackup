@@ -1,7 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/
-plugins/main/installers.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/plugins/main/installers.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
