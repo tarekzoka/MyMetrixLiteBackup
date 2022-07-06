@@ -1,6 +1,7 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/65/main/script-a.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/
+plugins/main/script-a.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
